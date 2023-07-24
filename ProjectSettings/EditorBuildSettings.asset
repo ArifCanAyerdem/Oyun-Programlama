@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Yilmaz_Sahne.unity
+    guid: 5dd3b42934e673a4b83c64fb092c6932
+  - enabled: 1
+    path: Assets/Scenes/Sero_Sahne.unity
+    guid: f18a072549dcf154990be371e9262717
+  - enabled: 1
+    path: Assets/Scenes/Mustafa_Sahne.unity
+    guid: ec9ed80bb12939441b5c3f32f3e39384
+  - enabled: 1
+    path: Assets/Scenes/Arif_Sahne.unity
+    guid: 6b78e28d84047124b859d7ed6f88437d
+  m_configObjects: {}
